@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LibrarySystem
 {
         public delegate void ItemAddedHandler(string message);
-        public class LibraryNotifier
+        public class LibraryNotifier //edit
         {
             public event ItemAddedHandler OnItemAdded;
             public void AddItem(string itemName)
