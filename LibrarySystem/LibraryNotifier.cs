@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace LibrarySystem
 {
-    internal class LibraryNothifier
-    {
         public delegate void ItemAddedHandler(string message);
         public class LibraryNotifier
         {
@@ -20,4 +18,4 @@ namespace LibrarySystem
         }
     }
 
-}
+

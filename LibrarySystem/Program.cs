@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static LibrarySystem.LibraryNothifier;
+using static LibrarySystem.LibraryNotifier;// edit name 
 
 namespace LibrarySystem
 {
